@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Ph.D. student in Vanderbilt University’s Department of Computer Science, advised by [Prof. Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey). I work as a research assistant in the [ScopeLab research group](https://scopelab.ai/) where I apply fairness in decision making to cyber-physical systems.
 
-A data-driven personal website
+Prior to this, I was a research assistant at BigLab! at Florida State University, working under [Prof. Michael Gubanov](http://www.mgubanov.com/) during my undergraduate. During my time at BigLab!, I focused on the intersection of machine learning and data management, working on projects such as [COVIDKG.ORG](http://www.covidkg.org/) and web-scale tabular data classification. 
+
+My research interests include AI for Social Good, fairness in decision making, Big Data, and cyber-physical systems. For more information, check out my [publications](https://sophiepavia.github.io/publications/) and [projects](https://sophiepavia.github.io/projects/)
+
+Updates
+-----
+- Our COVID-19 Web-scale vizualization demo paper was accepted to [CIKM 2022](https://www.cikm2022.org/)
+- We attended and presented our large-scale tabular profiling demo paper at [SIGMOD 2022](https://2022.sigmod.org/)
+- I started as an Research Assistant at ScopeLab under the advisal of Prof. Abhishek Dubey
+- I graduated from Florida State University, summa cum laude, with a BS in Computer Science
+- I recieved the Student Travel Award to attend SIGMOD/PODS 2022 
+- Our tabular profiling demo paper was accepted to SIGMOD/PODS 2022
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -47,4 +62,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
