@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+{% include seo.html %}
 I am a Ph.D. student in Vanderbilt University’s Department of Computer Science, advised by [Prof. Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey). I work as a research assistant in the [ScopeLab research group](https://scopelab.ai/) where I apply fairness in decision making to cyber-physical systems.
 
 Prior to this, I was a research assistant at BigLab! at Florida State University, working under [Prof. Michael Gubanov](http://www.mgubanov.com/) during my undergraduate. During my time at BigLab!, I focused on the intersection of machine learning and data management, working on projects such as [COVIDKG.ORG](http://www.covidkg.org/) and web-scale tabular data classification. 
