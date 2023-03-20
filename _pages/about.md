@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-description: "Ph.D. Student at Vanderbilt University in computer science"
+description: "Sophie Pavia is a Ph.D. Student at Vanderbilt University in computer science performing research in AI for Social Good"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
