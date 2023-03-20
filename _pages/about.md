@@ -1,6 +1,7 @@
 ---
 permalink: /
-# title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
+description: "Ph.D. Student at Vanderbilt University in computer science"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
