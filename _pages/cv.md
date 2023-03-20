@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-{% include seo %}
+{% include seo.html %}
 
 Updating, be there soon :)
