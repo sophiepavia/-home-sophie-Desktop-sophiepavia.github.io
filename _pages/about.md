@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-description: "Sophie Pavia is a Ph.D. Student at Vanderbilt University in computer science performing research in AI for Social Good"
+description: "Sophie Pavia is a Ph.D. Student at Vanderbilt University in computer science performing research in AI for Social Good, updates page, Abhishek Dubey, Ayan mukhopadhyay, Michael Gubanov, Florida State University, education, publications, conferences"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
