@@ -17,6 +17,7 @@ My research interests include AI for Social Good, fairness in decision making, B
 
 Updates
 -----
+- Our fairness in network design work was accepted as a shirt abstract to the Transportation Science and Logistics Society Conference [TSL](https://connect.informs.org/tsl/conferences/tsl-conference316309)
 - Our COVID-19 Web-scale vizualization demo paper was accepted to [CIKM 2022](https://www.cikm2022.org/)
 - We attended and presented our large-scale tabular profiling demo paper at [SIGMOD 2022](https://2022.sigmod.org/)
 - I started as an Research Assistant at ScopeLab under the advisal of Prof. Abhishek Dubey
