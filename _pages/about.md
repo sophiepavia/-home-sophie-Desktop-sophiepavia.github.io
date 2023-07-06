@@ -17,7 +17,10 @@ My research interests include AI for Social Good, fairness in decision making, B
 
 Updates
 -----
-- Our fairness in network design work was accepted as a shirt abstract to the Transportation Science and Logistics Society Conference [TSL 2023](https://connect.informs.org/tsl/conferences/tsl-conference316309)
+- Presented and Accepted **Best Demo** award for Microtransit Optimizer for Mobility-on-Demand at SMARTCOMP 2023
+- I organized and lead an N2Women Panel at SMARTCOMP'23 see more information [here](https://smartcomp.isis.vanderbilt.edu/schedule.html#panels)
+- I attended AAAI'23 and CPS-IoT Week 2023 (NSF Student Travel Grant recipient)
+- Our fairness in network design work was accepted as a short abstract to the Transportation Science and Logistics Society Conference [TSL 2023](https://connect.informs.org/tsl/conferences/tsl-conference316309)
 - Our COVID-19 Web-scale vizualization demo paper was accepted to [CIKM 2022](https://www.cikm2022.org/)
 - We attended and presented our large-scale tabular profiling demo paper at [SIGMOD 2022](https://2022.sigmod.org/)
 - I started as an Research Assistant at ScopeLab under the advisal of Prof. Abhishek Dubey
