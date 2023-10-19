@@ -17,6 +17,7 @@ My research interests include AI for Social Good, fairness in decision making, B
 
 Updates
 -----
+- Attended and presented 'Designing Equitable Transit' at INFORMs 2023
 - Presented and Accepted **Best Demo** award for Microtransit Optimizer for Mobility-on-Demand at SMARTCOMP 2023
 - I organized and lead an N2Women Panel at SMARTCOMP'23 see more information [here](https://smartcomp.isis.vanderbilt.edu/schedule.html#panels)
 - I attended AAAI'23 and CPS-IoT Week 2023 (NSF Student Travel Grant recipient)
