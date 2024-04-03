@@ -5,7 +5,17 @@ permalink: /projects/
 author_profile: true
 ---
 
+Research Projects
+[**Foundations for Equitable Transit Networks**](https://arxiv.org/pdf/2212.12007.pdf)
 [**COVIDKG**](http://covidkg.org/)
+
+Github Projects
+[**LDA with Word Embeddings**](https://github.com/sophiepavia/ML-Project)
+[**C++ Password Server Simulation**](https://github.com/sophiepavia/passserver)
+[**Pygame for Speed Tying**](https://github.com/sophiepavia/speedyfingers)
+[**Swift Fitness App**](https://github.com/sophiepavia/fitnessapp)
+[**Custom C Shell**](https://github.com/sophiepavia/project1)
+[**Cruise Controller**](https://github.com/sophiepavia/cruise_control)
 
 {% include base_path %}
 
