@@ -17,6 +17,7 @@ My research interests include AI for Social Good, fairness in decision making, B
 
 Updates
 -----
+- SmartTransit.AI: A Dynamic Paratransit and Microtransit Application was accepted to [IJCAI'24](https://ijcai24.org/) for demonstration!
 - Attended [IPAM's Mathematical Foundations for Equity in Transportation Systems](https://www.ipam.ucla.edu/programs/workshops/mathematical-foundations-for-equity-in-transportation-systems-january-22-26-2024/) and was a travel award recipient!
 - Presented 'Designing and Assessing Public Transit Networks' at [TRB 2024](https://www.trb.org/AnnualMeeting/AnnualMeeting.aspx)
 - Attended and presented Fairness in Transit work at [EAAMO 2023](https://conference2023.eaamo.org/)!
