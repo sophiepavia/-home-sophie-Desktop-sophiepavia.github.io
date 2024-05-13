@@ -1,14 +1,26 @@
 ---
 layout: archive
-title: "Publications"
+title: "Papers"
 permalink: /publications/
 author_profile: true
 ---
+2024
+----
+1. **Deploying Mobility-On-Demand for All by Optimizing Paratransit Services**\
+Sophie Pavia, David Rogers, Amutheezan Sivagnanam, Michael Wilbur, Danushka Pandithage, Youngseo Kim, Philip Pugliese, Samitha Samaranayake, Aron Laszka, Ayan Mukhopadhyay, Abhishek Dubey, Accepted at  International Joint Conference
+on Artificial  Intelligence (IJCAI) AI And Social Good (Special Track) **20% acceptance rate**
+2. **SmartTransit.AI: A Dynamic Paratransit and Microtransit Application**\
+Sophie Pavia, David Rogers, Amutheezan Sivagnanam, Michael Wilbur, Danushka Pandithage, Youngseo Kim, Ayan Mukhopadhyay, Philip Pugliese, Samitha Samaranayake, Aron Laszka, Abhishek Dubey, Accepted at International Joint Conference on Artificial  Intelligence (IJCAI) Demo Track
+
 2023
 ----
-1. **"Microtransit Optimizer for Mobility-on-Demand"**\
+1. **Designing Equitable Transit Networks**\
+Sophie Pavia, J. Carlos Martinez Mori, Philip Pugliese, Abhishek Dubey, Samitha Samaranayake, and Ayan Mukhopadhyay, Accepted in ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (Poster) (EAAMO)
+2. **Designing Equitable Transit Networks**\
+Sophie Pavia, J. Carlos Martinez Mori, Philip Pugliese, Abhishek Dubey, Samitha Samaranayake, and Ayan Mukhopadhyay, Accepted in INFORMS Transportation and Logistics Society Conference (extended abstract) (TSL)
+3. **"Microtransit Optimizer for Mobility-on-Demand"**\
 Michael Wilbur, Sophie Pavia, Abhishek Dubey, Pravesh Koirala, Zakariyya Al-Quran, Maxime R Coursey, Philip Pugliese, Accepted at IEEE International Conference on Smart Computing (SMARTCOMP) 2023 **Best Demo Award**
-2. **"Learning Circular Tabular Embeddings for Heterogeneous Large-scale Structured Datasets"**\
+4. **"Learning Circular Tabular Embeddings for Heterogeneous Large-scale Structured Datasets"**\
 Michael Gubanov, Anna Pyayt, Sophie Pavia, to appear in EDBT, DOLAP 2023
 
 2022
