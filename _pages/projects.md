@@ -5,16 +5,16 @@ permalink: /projects/
 author_profile: true
 driveId: 12MDlpeS8s5IMO3xqo2DNdpqyzdq4K6fg/preview
 ---
-
+## SmartTransit.ai
 {% include googleDrivePlayer.html id=page.driveId %}
 
-Research Projects
+## Research Projects
 
 [**Foundations for Equitable Transit Networks**](https://arxiv.org/pdf/2212.12007.pdf)
 
 [**COVIDKG**](http://covidkg.org/)
 
-Github Projects
+## Github Projects
 
 [**LDA with Word Embeddings**](https://github.com/sophiepavia/ML-Project)
 
