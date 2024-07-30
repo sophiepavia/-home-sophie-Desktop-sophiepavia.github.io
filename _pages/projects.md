@@ -3,7 +3,10 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+driveId: 12MDlpeS8s5IMO3xqo2DNdpqyzdq4K6fg/preview
 ---
+
+{% include googleDrivePlayer.html id=page.driveId %}
 
 Research Projects
 
