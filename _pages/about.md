@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 {% include seo.html %}
-I am a graduate student in Vanderbilt University’s Department of Computer Science, advised by [Prof. Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey). I work as a research assistant in the [ScopeLab research group](https://scopelab.ai/) where I apply fairness in decision making to cyber-physical systems.
+I am a graduate student in Vanderbilt University’s Department of Computer Science, advised by [Prof. Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey). I work as a research assistant in the [ScopeLab research group](https://scopelab.ai/) where I apply fairness in decision making to cyber-physical systems.I also work with the [SmartTransit.AI group](https://smarttransit.ai/) to solve classic transit problems through the lens of equity. 
 
 Prior to this, I was a research assistant at BigLab! at Florida State University, working under [Prof. Michael Gubanov](http://www.mgubanov.com/) during my undergraduate. During my time at BigLab!, I focused on the intersection of machine learning and data management, working on projects such as [COVIDKG.ORG](http://www.covidkg.org/) and web-scale tabular data classification. 
 
@@ -17,6 +17,7 @@ My research interests include AI for Social Good, fairness in decision making, B
 
 Updates
 -----
+- I received the Travel Award Grant to attend IJCAI 2024 
 - Deploying Mobility-On-Demand for All by Optimizing Paratransit Services was accepted to [IJCAI'24 Social Good Track](https://ijcai24.org/) **(20% acceptance rate)** 
 - SmartTransit.AI: A Dynamic Paratransit and Microtransit Application was accepted to [IJCAI'24](https://ijcai24.org/) for demonstration!
 - Attended [IPAM's Mathematical Foundations for Equity in Transportation Systems](https://www.ipam.ucla.edu/programs/workshops/mathematical-foundations-for-equity-in-transportation-systems-january-22-26-2024/) and was a travel award recipient!
@@ -28,11 +29,11 @@ Updates
 - I organized and lead an N2Women Panel at SMARTCOMP'23 see more information [here](https://smartcomp.isis.vanderbilt.edu/schedule.html#panels)
 - I attended AAAI'23 and CPS-IoT Week 2023 (NSF Student Travel Grant recipient)
 - Our fairness in network design work was accepted as a short abstract to the Transportation Science and Logistics Society Conference [TSL 2023](https://connect.informs.org/tsl/conferences/tsl-conference316309)
-- Our COVID-19 Web-scale vizualization demo paper was accepted to [CIKM 2022](https://www.cikm2022.org/)
+- Our COVID-19 Web-scale visualization demo paper was accepted to [CIKM 2022](https://www.cikm2022.org/)
 - We attended and presented our large-scale tabular profiling demo paper at [SIGMOD 2022](https://2022.sigmod.org/)
 - I started as an Research Assistant at ScopeLab under the advisal of Prof. Abhishek Dubey
 - I graduated from Florida State University, summa cum laude, with a BS in Computer Science
-- I recieved the Student Travel Award to attend SIGMOD/PODS 2022 
+- I received the Student Travel Award to attend SIGMOD/PODS 2022 
 - Our tabular profiling demo paper was accepted to SIGMOD/PODS 2022
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->

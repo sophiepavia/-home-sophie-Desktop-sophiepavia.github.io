@@ -11,4 +11,7 @@ redirect_from:
 {% include base_path %}
 {% include seo.html %}
 
-Updating, be there soon :)
+## Recent CV is available here: [Sophie Pavia CV](/files/sophie-pavia-cv.pdf)
+### Last Updated 7/31/2024
+
+
