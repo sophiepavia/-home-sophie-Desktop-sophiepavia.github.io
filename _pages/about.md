@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 {% include seo.html %}
-I am a graduate student in Vanderbilt University’s Department of Computer Science, advised by [Prof. Abhishek Dubey](https://engineering.vanderbilt.edu/bio/abhishek-dubey). I work as a research assistant in the [ScopeLab research group](https://scopelab.ai/) where I apply fairness in decision making to cyber-physical systems.I also work with the [SmartTransit.AI group](https://smarttransit.ai/) to solve classic transit problems through the lens of equity. 
+I am a graduate student in Vanderbilt University’s Department of Computer Science, advised by [Prof. Abhishek Dubey](https://engineering.vanderbilt.edu/bio/?pid=abhishek-dubey). I work as a research assistant in the [ScopeLab research group](https://scopelab.ai/) where I apply fairness in decision making to cyber-physical systems. I also work with the [SmartTransit.AI group](https://smarttransit.ai/) to solve classic transit problems through the lens of equity. 
 
 Prior to this, I was a research assistant at BigLab! at Florida State University, working under [Prof. Michael Gubanov](http://www.mgubanov.com/) during my undergraduate. During my time at BigLab!, I focused on the intersection of machine learning and data management, working on projects such as [COVIDKG.ORG](http://www.covidkg.org/) and web-scale tabular data classification. 
 
@@ -17,6 +17,7 @@ My research interests include AI for Social Good, fairness in decision making, B
 
 Updates
 -----
+- Started as President for Graduate Women in Science [GWIS Nashville Chapter](https://gwisnashville.wixsite.com/gwisnashville)
 - I received the Travel Award Grant to attend IJCAI 2024 
 - Deploying Mobility-On-Demand for All by Optimizing Paratransit Services was accepted to [IJCAI'24 Social Good Track](https://ijcai24.org/) **(20% acceptance rate)** 
 - SmartTransit.AI: A Dynamic Paratransit and Microtransit Application was accepted to [IJCAI'24](https://ijcai24.org/) for demonstration!
